@@ -1,4 +1,4 @@
-# Assignment 4: The Game of Life
+# The Game of Life
 In this assignment, we create a simulation of The Game of Life by John Horton Conway. The Game of Life essentially works by operating on cells in a 2D matrix (the "universe"), and testing to see if they survive in the next generation using three rules--that is, each cell has either one of two states: alive or dead. The three rules are:
  
  1. If an alive cell has two or three neighbors, it survives.
